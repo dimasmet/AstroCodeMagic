@@ -4,7 +4,7 @@ workflows:
     max_build_duration: 120
     integrations:
 
-      app_store_connect: "WasneefFuasdan"
+      app_store_connect: "Fuasdan"
     environment:
       xcode: 16.1
 
